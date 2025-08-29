@@ -1,5 +1,6 @@
 name: Jor3a-Ti9niya-RDP
-
+Permission:
+   content: write
 on:
   workflow_dispatch:
 
